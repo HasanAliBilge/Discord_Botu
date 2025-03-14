@@ -44,4 +44,4 @@ async def complete_task(ctx, task_id: int):
     else:
         await ctx.send('Görev bulunamadı!')
 
-bot.run('MTM0OTg4NTkzNzAyNjMzNDg0MA.GWu4aa.WiGG3QU7c2CKy2jOs_jUW-dH8z-U171zg-bAic')
+bot.run('Token')
